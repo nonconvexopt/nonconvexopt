@@ -1,4 +1,8 @@
-### Hi there 👋
+## My Life Goals
+### Develop an ability to consistently publish academic papers in AI/ML top venues in solo author.
+### Alternate my body with mechanic parts to extend my life as long as I want. Be a pioneer of the age of cyberpunk.
+### Raise and Educate my son whom is my human clone gaved birth by using somatic-cell nuclear transfer and endometrium(or artificial womb). Though his DNA is same with me and might be unchangeable after birth, devote to help him to modify any epigenetic characteristics he wants. Feel the love stronger than any paternal love. 
+### Specify my longevity by myself and the day I die by voluntary euthanasia. Hold the funeral of me which I am attending together.
 
 <!--
 **nonconvexopt/nonconvexopt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
