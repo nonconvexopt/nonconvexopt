@@ -1,7 +1,7 @@
 ### My Life Goals
 - :page_facing_up: Develop an ability to publish academic papers at AI/ML top venues in solo author consistently.
 - :robot: Alternate my body with mechanic parts to extend my life as long as I want. Be a pioneer of the age of cyberpunk.
-- :family_man_boy: Raise and Educate my son whom is my human clone gaved birth by using somatic-cell nuclear transfer and endometrium(or artificial womb). Though his DNA is same with me and might be unchangeable after birth, devote to help him to modify any epigenetic characteristics he wants. Feel the love stronger than any paternal love. 
+- :family_man_boy: Raise and Educate my son whom is my human clone gaved birth by using somatic-cell nuclear transfer and endometrium(or artificial womb). Even though his DNA is same with me and it might be unchangeable after birth, devote to help him to improve any his epigenetic characteristics he wants. Feel the love stronger than any paternal love. 
 - :sunglasses: Proactively determine my longevity and the day I will end my life by voluntary euthanasia. Hold the funeral of myself while I am still alive.
 
 <!--
