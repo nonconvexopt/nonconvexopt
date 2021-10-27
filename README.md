@@ -2,7 +2,7 @@
 - :page_facing_up: Develop an ability to publish academic papers at AI/ML top venues consistently.
 - :robot: Alternate my body with mechanic parts to extend my life as long as I want. Be a pioneer of the age of cyberpunk.
 - :seedling: Gave birth to my human clone by using somatic-cell nuclear transfer and artificial womb. Raise and educate him as my son. Since his DNA will be same with me and it might be hard to change after birth, devote to help him to improve any his epigenetic characteristics he wants. Feel love stronger than paternal love and be truly responsibile.
-- :sunglasses: Proactively determine my longevity and the day I will end my life by voluntary euthanasia. Hold the funeral of myself while I am still alive.
+- :sunglasses: Proactively determine my lifespan and the day I will end my life by voluntary euthanasia. Hold the funeral of myself while I am still alive.
 
 <!--
 **nonconvexopt/nonconvexopt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
