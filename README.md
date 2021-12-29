@@ -5,7 +5,7 @@
 - :sunglasses: Proactively determine my lifespan and the day I will end my life by voluntary euthanasia. Hold the funeral of myself while I am still alive.
 
 ### [Mutations](https://stackoverflow.com/questions/31215003/genetic-algorithm-selection-method-stuck-at-local-minimum-after-few-generations)
-> In general, optimization solving algorithms converge to a local minimum. To get out of this local minimum in a Genetic Algorithm, you can use mutations. Mutations are applied to some individuals of a generation. Usually, mutations will be bad and make the result worse and they will not be selected for the next generation, but sometimes, a mutation causes an individual to get close to a different (and sometimes better) local minimum. The higher the mutation rate is, the more 'space' will be searched and the higher the chance that the global minimum is found. There is a catch though; If the mutation rate is too high, the algorithm won't converge anymore.
+> _In general, optimization solving algorithms converge to a local minimum. To get out of this local minimum in a Genetic Algorithm, you can use mutations. Mutations are applied to some individuals of a generation. Usually, mutations will be bad and make the result worse and they will not be selected for the next generation, but sometimes, a mutation causes an individual to get close to a different (and sometimes better) local minimum. The higher the mutation rate is, the more 'space' will be searched and the higher the chance that the global minimum is found. There is a catch though; If the mutation rate is too high, the algorithm won't converge anymore._
 
 <!--
 **nonconvexopt/nonconvexopt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
