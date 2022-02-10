@@ -1,9 +1,10 @@
 ## I chose my preferred name to be `Odd`. (22.1.11)
 The word `Odd` has several meanings:<br>
-- The characteristic of the object is outlying when compared to average of the population.<br>
-- Alternate representation of the probability. p / (1 - p)<br>
+- The characteristic of the object is outlying when compared to the average of the population.<br>
+- Alternate representation of the probability. `p / (1 - p)`<br>
 - Having an out-of-the-way location (I prefer remote position!)<br>
 - <del>Being without a corresponding mate</del><br>
+<br>
 [Also, it says that it is an exisitng, common name in Norway.](https://en.m.wikipedia.org/wiki/Odd_(name)) The name `Odd` is not that Odd.<br>
 
 ### Possible scenarios caused by the name:
