@@ -1,4 +1,25 @@
-### My Life Goals(21.11.3)
+## I chose my preferred name to be `Odd`. (22.1.11)
+The word `Odd` has several meanings:
+- The characteristic of the object is outlying when compared to average of the population.
+- Alternate representation of the probability. p / (1 - p)
+- Having an out-of-the-way location (I prefer remote position!)
+<del>- Being without a corresponding mate</del>
+[Also, it says that it is an exisitng, common name in Norway.](https://en.m.wikipedia.org/wiki/Odd_(name)) The name `Odd` is not that Odd.
+
+### Possible scenarios caused by the name:
+- Case 1
+-- A: Hey Odd!
+-- B: What? That's rude!
+-- Me: 😄😄😄
+- Case 2
+-- A: What is your name?
+-- Me: My name is Odd.
+-- A: So, what is your name?
+-- Me: I am Odd.
+-- A: 🤔
+-- Me: 😄😄😄
+
+### My Life Goals (21.11.3)
 - :page_facing_up: Develop an ability to publish academic papers at AI/ML top venues consistently. Have an experience of publishing paper in solo author.
 - :robot: Alternate my body with mechanical parts and be a pioneer of the age of cyberpunk. Modify my physical functionality on occasion and extend my life as long as I want. Keep my heart running in the water tank at my home to remember and to keep remind that I was once a human.
 - :seedling: Give birth to my human clone by using the somatic-cell nuclear transfer and the artificial womb. Raise and educate him as my son. Since his DNA will be same with me and it might be hard to change after birth, take responsibility and devote to help him to improve any epigenetic characteristic he wants. Account for his environment, education, physical activities and experiences. Feel the love stronger than paternal love and be a responsibile host. (Used 'host' though I do not possess him but I am not strictly his parent).
