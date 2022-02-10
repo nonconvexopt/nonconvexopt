@@ -4,8 +4,7 @@ The word `Odd` has several meanings:<br>
 - Alternate representation of the probability. `p / (1 - p)`<br>
 - Having an out-of-the-way location (I prefer remote position!)<br>
 - <del>Being without a corresponding mate</del><br>
-<br>
-[Also, it says that it is an exisitng, common name in Norway.](https://en.m.wikipedia.org/wiki/Odd_(name)) The name `Odd` is not that Odd.<br>
+- [Also, it says that it is an exisitng, common name in Norway.](https://en.m.wikipedia.org/wiki/Odd_(name)) The name `Odd` is not that Odd.<br>
 
 ### Possible scenarios caused by the name:
 - Case 1<br>
