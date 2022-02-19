@@ -1,23 +1,23 @@
 ## I chose my preferred name to be `Odd`. (22.1.11)
-The word `Odd` has several meanings:
-- The characteristic of the object is outlying when compared to average of the population.
-- Alternate representation of the probability. p / (1 - p)
-- Having an out-of-the-way location (I prefer remote position!)
-<del>- Being without a corresponding mate</del>
-[Also, it says that it is an exisitng, common name in Norway.](https://en.m.wikipedia.org/wiki/Odd_(name)) The name `Odd` is not that Odd.
+The word `Odd` has several meanings:[(From)](https://www.merriam-webster.com/dictionary/odd)<br>
+- The characteristic of the object is outlying when compared to the average of the population.<br>
+- Alternate representation of the probability. <del>(with `s`)</del> `p / (1 - p)`<br>
+- Having an out-of-the-way location (I prefer remote position!)<br>
+- <del>Being without a corresponding mate</del><br>
+- [Also, it says that it is an exisitng, common name in Norway.](https://en.m.wikipedia.org/wiki/Odd_(name)) The name `Odd` is not that Odd.<br>
 
 ### Possible scenarios caused by the name:
-- Case 1
--- A: Hey Odd!
--- B: What? That's rude!
--- Me: 😄😄😄
-- Case 2
--- A: What is your name?
--- Me: My name is Odd.
--- A: So, what is your name?
--- Me: I am Odd.
--- A: 🤔
--- Me: 😄😄😄
+- Case 1<br>
+-- A: Hey Odd!<br>
+-- B: What? That's rude!<br>
+-- Me: 😄😄😄<br>
+- Case 2<br>
+-- A: What is your name?<br>
+-- Me: My name is Odd.<br>
+-- A: So, what is your name?<br>
+-- Me: I am Odd.<br>
+-- A: 🤔<br>
+-- Me: 😄😄😄<br>
 
 ### My Life Goals (21.11.3)
 - :page_facing_up: Develop an ability to publish academic papers at AI/ML top venues consistently. Have an experience of publishing paper in solo author.
